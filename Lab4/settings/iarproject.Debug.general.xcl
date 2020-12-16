@@ -1,0 +1,15 @@
+"C:\Users\User\Desktop\4 курс\Колодий\arm\bin\armproc.dll" 
+
+"C:\Users\User\Desktop\4 курс\Колодий\arm\bin\armstlink2.dll" 
+
+"C:\Users\User\Desktop\po kolodiyu\Lab2\Debug\Exe\iarproject.out" 
+
+--plugin="C:\Users\User\Desktop\4 курс\Колодий\arm\bin\armbat.dll" 
+
+--device_macro="C:\Users\User\Desktop\4 курс\Колодий\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="C:\Users\User\Desktop\4 курс\Колодий\arm\config\flashloader\ST\FlashSTM32F411xE.board" 
+
+
+
+
